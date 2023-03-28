@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "vasir-m";
+    src: url(./fonts/Vazirmatn-Medium.woff2);
+}
+body{
+    font-family: "vasir-m";
+}

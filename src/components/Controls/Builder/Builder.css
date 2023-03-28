@@ -1,0 +1,11 @@
+.builder {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 12px 0;
+}
+.builder div {
+    color: #8e24aa;
+    margin: 0 12px;
+}

@@ -1,0 +1,6 @@
+.child-ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}

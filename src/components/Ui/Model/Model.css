@@ -1,0 +1,14 @@
+.model {
+    position: fixed;
+    z-index: 300;
+    background-color: #ffffff;
+    width: 25%;
+    border: 2px solid #e0e0e0;
+    border-radius: 5px;
+    padding: 1rem;
+    left: 38%;
+    top: 25%;
+    box-sizing: border-box;
+    text-align: center;
+    transition: all 1s ease-in-out;
+}

@@ -1,0 +1,21 @@
+.input {
+    width: 100%;
+    padding: .6rem;
+    box-sizing: border-box;
+}
+.input-field {
+    background: none;
+    border: none;
+    outline: none;
+    width: 100%;
+    color: #d3d3d3;
+    padding: .5rem 0;
+    border-radius: 3px;
+}
+.input-field::placeholder {
+    transition:all ease-in-out .5s;
+}
+.input-field:focus::placeholder {
+    opacity: 0;
+    transition:all ease-in-out .3s;
+   }
